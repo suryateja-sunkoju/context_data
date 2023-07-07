@@ -1,0 +1,618 @@
+Bot  11-Aug-22, 10:38
+Are you asking for 2 PCR tests ?
+
+Tariq Alsunni  11-Aug-22, 10:38
+Yes
+
+Bot  11-Aug-22, 10:39
+Sure thing, what type of PCR ?
+
+Tariq Alsunni  11-Aug-22, 10:39
+Standard
+
+Bot  11-Aug-22, 10:40
+Great!
+
+Bot  11-Aug-22, 10:41
+Can you share with me the names of the people doing the tests, and please
+confirm that it would be at the same adress
+
+Tariq Alsunni  11-Aug-22, 10:48
+Same address
+
+Tariq Alsunni  11-Aug-22, 10:48
+Tariq alsunni and yasmeen elashi
+
+Bot  11-Aug-22, 10:49
+Thank you for sharing your information.
+
+Bot  11-Aug-22, 10:49
+Here is your payment link, please share a screenshot once done.
+
+Bot  11-Aug-22, 10:49
+https://zohosecurepay.com/books/valeowellbeingtechnologiesdmc2/secure?CInvoiceID=2-27395f2b53f74b71fcc2da6a272627b1a3d2dbb01bacca4b43988a54fccf253f110c76f5a3f894919113d5a282cbe3cb8bfd2d2e5bb5d9da09a0cf4e84d2b28f11e80a707f5b3196
+
+Tariq Alsunni  11-Aug-22, 10:52
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_5c1a362eefe3490f01fb52cd2b1cea38d45d654f858e5bb20cfce8361afa5469/img_onf5boh0uj_b0429c6d8ea3464791063b33c8716f49187d6560323b73b65887157bf5039799.jpeg
+
+Bot  11-Aug-22, 10:52
+Thank you for your payment, I will share the confirmation with you shortly.
+
+Bot  11-Aug-22, 11:10
+We have sent you a confirmation email with the invoice.
+
+Your appointment is booked on Aug 11. between 6:00PM and 7:00PM We request you
+to please allow us a wait time of 60mins maximum in case of any unforeseen
+delays.
+However, we always ensure that our team arrives at your location on time.
+
+Thank you for booking with Valeo!
+
+Bot  11-Aug-22, 11:14
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/11057 by Mohammad Hammad
+
+Tariq Alsunni  20-Aug-22, 09:13
+Good day, i need 1number pcr standard test. Tariq.alsunni@gmail.com
+
+Tariq Alsunni  20-Aug-22, 09:13
+Today afternoon
+
+Bot  20-Aug-22, 09:14
+Hi, thanks for reaching out to Valeo!
+
+Bot  20-Aug-22, 09:14
+Sure thing I can help you with that.
+
+Bot  20-Aug-22, 09:15
+Here is your payment link, please share a screenshot once done.
+
+Bot  20-Aug-22, 09:15
+https://business.mamopay.com/pay/valeo-5ca27f
+
+Tariq Alsunni  20-Aug-22, 09:17
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_5c1a362eefe3490f01fb52cd2b1cea38d45d654f858e5bb20cfce8361afa5469/img_qgg344tvq2_9b62f69c30cfe63e59b29dc0087f0ffc8ea1ef18a5bd28288399c93b53ac50a7.jpeg
+
+Tariq Alsunni  20-Aug-22, 09:17
+What timing are available
+
+Bot  20-Aug-22, 09:19
+Thank you for your payment, and would 1:00PM be suitable for you ?
+
+Tariq Alsunni  20-Aug-22, 09:20
+No. 3pm
+
+Bot  20-Aug-22, 09:21
+Sure thing, will it be for you and the same address ?
+
+Tariq Alsunni  20-Aug-22, 09:21
+Yes. Tariq
+
+Bot  20-Aug-22, 09:21
+Great!
+
+Bot  20-Aug-22, 09:22
+I will share the confirmation with you shortly.
+
+Bot  20-Aug-22, 09:44
+We have sent you a confirmation email
+
+Your appointment is booked on Aug 20 . between 3:00PM and 4:00PM We request you
+to please allow us a wait time of 60mins maximum in case of any unforeseen
+delays.
+However, we always ensure that our team arrives at your location on time.
+
+Thank you for booking with Valeo!
+
+Bot  20-Aug-22, 09:57
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/11335 by Mohammad Hammad
+
+Bot  20-Aug-22, 17:41
+text: Hi Tariq,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+3:00PM to 4:00PM .
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Tariq Alsunni  29-Aug-22, 08:04
+Good day, looking for pcr for 1person standard. Today 11pm
+Tariq.alsunni@gmail.com
+
+Bot  29-Aug-22, 08:04
+Good morning Tariq
+
+Bot  29-Aug-22, 08:06
+Sure, here is the payment link : https://business.mamopay.com/pay/valeo-5ca27f
+
+Bot  29-Aug-22, 08:08
+Please complete the payment and confirm that the test will be for you Tariq and
+the location will be: https://maps.google.com/maps?q=24.8435307,55.0200761
+
+Tariq Alsunni  29-Aug-22, 08:09
+Paid.
+
+Tariq Alsunni  29-Aug-22, 08:09
+For yasmeen elashi
+
+Bot  29-Aug-22, 08:10
+Thank you so much, sure, I will share the confirmation with you shortly.
+
+Tariq Alsunni  29-Aug-22, 08:10
+Location is same
+
+Bot  29-Aug-22, 08:11
+Great!
+Your appointment is booked on 29th of August between 11:00AM and 12:00PM. We
+request you to please allow us a wait time of 60mins maximum in case of any
+unforeseen delays.
+However, we always ensure that our team arrives at your location on time.
+
+Thank you for booking with Valeo!
+
+Bot  29-Aug-22, 12:32
+text: Hi Yasmin,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+11:000 to 12:00 .
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Tariq Alsunni  29-Aug-22, 12:33
+Yes
+
+Bot  29-Aug-22, 12:33
+Great, thank you for letting us know! Could you please rate your overall
+experience so far from 1-5, 5 being the highest.
+
+Bot  29-Aug-22, 16:47
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/11706 by Alaa Alrajabi
+
+Tariq Alsunni  07-Sep-22, 06:51
+Good day, need 2 numbers standard pcr today at 12.30pm. Tariq.alsunni@gmail.com
+
+Manar  07-Sep-22, 08:23
+Hello Tariq! good morning
+
+Manar  07-Sep-22, 08:27
+Sure, let me check quickly and get back to you
+
+Manar  07-Sep-22, 08:29
+It will be for you & Yasmeen in the same location right ?
+
+Tariq Alsunni  07-Sep-22, 08:30
+Yes
+
+Manar  07-Sep-22, 08:34
+Ok sure Tariq
+
+Manar  07-Sep-22, 08:34
+I'll send you the payment link for 2 PCR Regular
+
+Manar  07-Sep-22, 08:44
+https://business.mamopay.com/pay/valeo-843692
+
+Manar  07-Sep-22, 08:44
+Here's the payment link , thank you
+
+Tariq Alsunni  07-Sep-22, 08:46
+Done
+
+Manar  07-Sep-22, 09:07
+Thank you for the payment Tariq!
+Your appointment is booked on 7 Sep, between 12:30 PM and 1:30 PM
+
+Thank you for booking with Valeo!
+
+Bot  07-Sep-22, 14:17
+text: Hi Tariq,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+12:30 PM to 1:30 PM.
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Manar  07-Sep-22, 14:42
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/12002 by Manar Fayez
+
+Tariq Alsunni  13-Sep-22, 05:49
+Good day, need 1 number urgent pcr today at 4.30pm for tariq.
+Tariq.alsunni@gmail.com
+
+Bot  13-Sep-22, 08:14
+Sure thing Tariq, Here is your payment link please share a screenshot once done
+
+Bot  13-Sep-22, 08:14
+https://business.mamopay.com/pay/valeo-a95da7
+
+Tariq Alsunni  13-Sep-22, 08:17
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_5c1a362eefe3490f01fb52cd2b1cea38d45d654f858e5bb20cfce8361afa5469/img_qh1elnbru3_70de7185121d163e9e6c60a595a01eb39bab503f425b13da987ba613c35cab2f.jpeg
+
+Bot  13-Sep-22, 08:18
+Thank you for your payment, I will share the confirmation shortly
+
+Bot  13-Sep-22, 09:51
+We have sent you a confirmation email with the invoice.
+
+Your appointment is booked on Sep 13. between 4:30PM and 5:30PM We request you
+to please allow us a wait time of 60mins maximum in case of any unforeseen
+delays.
+However, we always ensure that our team arrives at your location on time.
+
+Thank you for booking with Valeo!
+
+Bot  13-Sep-22, 09:54
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/12182 by Mohammad Hammad
+
+Tariq Alsunni  15-Sep-22, 12:51
+Good day looking for 1 number standard pcr today 4.30pm.
+Yasmine.elashi@gmail.com
+
+Bot  15-Sep-22, 12:53
+Good day! Sure, here is the payment link:
+https://business.mamopay.com/pay/valeo-5ca27f
+
+Bot  15-Sep-22, 13:15
+Could you please confirm that the test will be for Yasmine and the location will
+be https://maps.google.com/maps?q=24.8435307,55.0200761
+
+Tariq Alsunni  15-Sep-22, 13:16
+Yes
+
+Bot  15-Sep-22, 13:17
+Thank you.
+
+Bot  15-Sep-22, 13:25
+Hi again Tariq, can we confirm your booking at 4:00PM?
+
+Tariq Alsunni  15-Sep-22, 13:25
+Ok
+
+Bot  15-Sep-22, 13:28
+Great!
+
+Your appointment is booked on 15th of Sep between 4:00pm and 5:00pm We request
+you to please allow us a wait time of 60mins maximum in case of any unforeseen
+delays.
+However, we always ensure that our team arrives at your location on time.
+
+Thank you for booking with Valeo!
+
+Bot  15-Sep-22, 13:37
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/12298 by Alaa Al Rajabi
+
+Tariq Alsunni  28-Sep-22, 16:35
+Good day, need 2 number standard pcr thursday 10am tomorrow.
+Tariq.alsunni@gmail.com
+tariq and yasmeen.
+
+Manar  28-Sep-22, 16:39
+Hello Tariq!
+Thank you for reaching back to Valeo!
+
+Manar  28-Sep-22, 16:39
+Yes sure we can book for you tomorrow
+
+Manar  28-Sep-22, 16:40
+We'll send you the payment link shortly
+
+Manar  28-Sep-22, 16:44
+https://business.mamopay.com/pay/valeo-843692
+
+Manar  28-Sep-22, 16:45
+Here's the payment link , kindly complete the payment , thank you
+
+Tariq Alsunni  28-Sep-22, 16:46
+Done
+
+Manar  28-Sep-22, 16:47
+Thank you for the payment
+
+Manar  28-Sep-22, 16:47
+May i confirm the location : Villa 481, Al Ghadeer village phase 2, Dubai ?
+
+Tariq Alsunni  28-Sep-22, 16:48
+Yes
+
+Manar  28-Sep-22, 16:48
+Great!
+
+Manar  28-Sep-22, 16:53
+Your booking is confirmed on 29 Sep between 10:00 AM and 11:00 AM
+
+Manar  28-Sep-22, 16:53
+Thank you for booking with Valeo , and have a great day!
+
+Manar  28-Sep-22, 16:55
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/12994 by Manar Fayez
+
+Bot  29-Sep-22, 17:02
+text: Hi Tariq ,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+10:00 AM to 11:00 AM.
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Tariq Alsunni  06-Oct-22, 15:44
+Good day, is it possible for pcr today? Tariq.alsunni@gmail.com.
+1 pcr standard
+
+Bot  06-Oct-22, 15:47
+Good day Tariq!
+
+Bot  06-Oct-22, 15:49
+definitely, what time would you like to book the PCR for?
+
+Tariq Alsunni  06-Oct-22, 16:21
+530pm
+
+Bot  06-Oct-22, 16:23
+We will check for the availability and confirm shortly 
+
+Bot  06-Oct-22, 16:23
+and if we may ask, who's the test going to be for?
+
+Tariq Alsunni  06-Oct-22, 16:23
+Tariq
+
+Bot  06-Oct-22, 16:24
+Noted
+
+Bot  06-Oct-22, 16:34
+After checking for the availability, the earliest time for the nurse to reach
+the location you have provided will be between 6:00 PM and 7:00 PM.
+
+Tariq Alsunni  06-Oct-22, 16:35
+Ok that is acceptable
+
+Bot  06-Oct-22, 16:37
+Perfect, we will send the payment link shortly followed by the confirmation for
+the appointment 
+
+Bot  06-Oct-22, 16:38
+https://business.mamopay.com/pay/valeo-5ca27f
+
+Bot  06-Oct-22, 16:39
+Here's the payment link, please confirm once completed, thank you
+
+Tariq Alsunni  06-Oct-22, 16:40
+Done
+
+Bot  06-Oct-22, 16:41
+Thank you for the payment
+
+Bot  06-Oct-22, 16:42
+Your booking is confirmed on Oct 6th between 6:00 PM and 7:00 PM
+
+Bot  06-Oct-22, 16:42
+Thank you for booking with Valeo , and have a great day!
+
+Manar  06-Oct-22, 17:31
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/13327 by Manar Fayez
+
+Tariq Alsunni  11-Oct-22, 11:29
+Good day, i need 1 standard pcr for tariq tomorrow 12th at 10am.
+Tariq.alsunni@gmail.com
+
+Bot  11-Oct-22, 11:31
+Hello Tariq!
+
+Bot  11-Oct-22, 11:31
+Let me share the payment link
+
+Bot  11-Oct-22, 11:32
+and check the availability of the slot
+
+Bot  11-Oct-22, 11:34
+The slot is available here is the payment link
+
+Bot  11-Oct-22, 11:34
+https://business.mamopay.com/pay/valeo-5ca27f
+
+Tariq Alsunni  11-Oct-22, 11:46
+Done
+
+Bot  11-Oct-22, 11:51
+Could you please confirm that the location for the test will be:
+https://maps.google.com/maps?q=24.8435307,55.0200761
+
+Tariq Alsunni  11-Oct-22, 11:52
+Yes
+
+Manar  11-Oct-22, 11:55
+Great , thanks for confirming
+
+Manar  11-Oct-22, 11:56
+Your appointment is booked on 12 Oct between 10:00 AM and 11:00 AM
+
+Thank you for booking with Valeo!
+
+Tariq Alsunni  11-Oct-22, 11:57
+Apologies but i need to change the timing, i made a mistake
+
+Manar  11-Oct-22, 11:58
+Sure , no worries
+
+Manar  11-Oct-22, 11:58
+What time you wish to book please ?
+
+Tariq Alsunni  11-Oct-22, 12:00
+4.30pm and it will be urgent
+
+Bot  11-Oct-22, 12:01
+Just to make sure, 4:30 pm for today or for tomorrow?
+
+Tariq Alsunni  11-Oct-22, 12:02
+Tomorrow
+
+Bot  11-Oct-22, 12:03
+Thanks for sharing. We will share the link for the remaining balance shortly
+
+Bot  11-Oct-22, 12:10
+Here is the link for the update from PCR regular(110) to urgent (299) :
+https://business.mamopay.com/pay/valeo-d59e09
+
+Bot  11-Oct-22, 12:10
+As 110 has already been cleared 189 remains
+
+Tariq Alsunni  11-Oct-22, 12:11
+Done
+
+Bot  11-Oct-22, 12:12
+Your appointment is booked on 12 Oct between 4:30 P.M and 5:30 P.M
+
+Thank you for booking with Valeo!
+
+Bot  11-Oct-22, 12:59
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/13530 by Beka Razmadze
+
+Bot  12-Oct-22, 19:02
+text: Hi Tariq,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+4:30PM to 5:30PM.
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Tariq Alsunni  26-Oct-22, 09:46
+Good day, need 2 standards pcr today 26th at 5pm. Tariq and yasmine.
+Tariq.alsunni@gmail.com same location
+
+Rawan  26-Oct-22, 09:47
+Good morning Tariq
+
+Rawan  26-Oct-22, 09:49
+Here is the payment link : https://business.mamopay.com/pay/valeo-56ea00
+
+Tariq Alsunni  26-Oct-22, 09:52
+Done
+
+Rawan  26-Oct-22, 09:53
+Thank you so much
+
+Rawan  26-Oct-22, 10:20
+Your appointment is booked on 26 Oct between 5:00PM and 6:00PM
+
+Thank you for booking with Valeo!
+
+Rawan  26-Oct-22, 10:22
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/14184 by Rawan Waddah
+
+Tariq Alsunni  09-Nov-22, 10:24
+Good day, i need 1 standard pcr, tariq, at 5pm today. Same location
+
+Rawan  09-Nov-22, 10:25
+Hello Tariq
+
+Rawan  09-Nov-22, 10:26
+Sure , We will share the payment link shortly
+
+Rawan  09-Nov-22, 10:33
+Here is the link : https://business.mamopay.com/pay/valeo-5ca27f
+
+Tariq Alsunni  09-Nov-22, 10:34
+Done
+
+Rawan  09-Nov-22, 10:34
+Thank you so much 
+
+Rawan  09-Nov-22, 10:38
+Your appointment is booked on 9 Nov between 5:00PM and 6:00PM
+
+Thank you for booking with Valeo!
+
+Rawan  09-Nov-22, 10:41
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/14864 by Rawan Waddah
+
+Bot  09-Nov-22, 18:34
+text: Hi Tariq,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+5:00PM to 6:00PM.
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Tariq Alsunni  09-Nov-22, 18:39
+Yes
+
+Rawan  09-Nov-22, 18:41
+Great, thank you for letting us know! Could you please rate your overall
+experience so far from 1-5, 5 being the highest.
+
+Rawan  09-Nov-22, 18:53
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/14905 by Rawan Waddah
+
+Tariq Alsunni  24-Nov-22, 06:46
+Good day, need 2 standard pcr today at 4pm. Tariq and yasmeen
+Tariq.alsunni@gmail.com
+
+Tariq Alsunni  24-Nov-22, 06:46
+Same location
+
+Manar  24-Nov-22, 08:02
+Hello Tariq! good morning
+
+Manar  24-Nov-22, 08:03
+Ok sure , we'll send you the payment link shortly
+
+Manar  24-Nov-22, 08:27
+https://business.mamopay.com/pay/valeo-1d376f
+Here's the payment link , thank you!
+
+Tariq Alsunni  24-Nov-22, 08:29
+Done
+
+Manar  24-Nov-22, 08:34
+Thank you so much
+
+Manar  24-Nov-22, 08:35
+Your appointment is booked on 24 Nov between 4:00 PM and 5:00 PM
+
+Thank you for booking with Valeo!
+
+Manar  24-Nov-22, 09:40
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/15534 by Manar Fayez
+

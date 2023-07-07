@@ -1,0 +1,727 @@
+Kristina Kholmanskikh  18-Feb-23, 17:14
+Thank u
+
+Mina  18-Feb-23, 17:15
+Most welcome.
+
+Mina  18-Feb-23, 17:39
+I informed the concerned team regarding your issue and will update you once I
+get a reply.
+Thanks for your patience.
+
+Kristina Kholmanskikh  18-Feb-23, 17:39
+Okay
+
+Kristina Kholmanskikh  18-Feb-23, 18:08
+Can u send me the result?
+
+Mina  18-Feb-23, 18:09
+I will check your results and get back to you.
+
+Giri  18-Feb-23, 18:11
+Here is the PDF copy of your results
+Attached file: MISS. Kristina  KHOLMANSKIKH_9656265765_OTHERS_20230218120319094.pdf.PDF
+
+Kristina Kholmanskikh  18-Feb-23, 18:11
+Thank u
+
+Mina  18-Feb-23, 18:12
+You are most welcome.
+
+Kristina Kholmanskikh  19-Feb-23, 10:57
+Good morning! Results for my husband’s blood test are ready too. Grigory Shiyan.
+But he doesn’t have an account to see them. Could you please send it as well?
+
+Yousef  19-Feb-23, 10:58
+I will check and get back to you shortly
+
+Kristina Kholmanskikh  19-Feb-23, 14:58
+Hello, is there any update regarding the results?
+
+Mina  19-Feb-23, 14:59
+Hello!
+Apologies for the delay! will update you shortly.
+
+Manar  19-Feb-23, 15:03
+In fact Grigory Shiyan has already account with this email : Grishka.s@gmail.com
+
+Kristina Kholmanskikh  19-Feb-23, 15:04
+Okay
+
+Kristina Kholmanskikh  19-Feb-23, 15:04
+But he still doesn’t have his results there
+
+Manar  19-Feb-23, 15:09
+We are checking on this with our team and we'll get back to you shortly
+
+Kristina Kholmanskikh  19-Feb-23, 15:10
+Thank you
+
+Yousef  19-Feb-23, 15:10
+You are welcome
+
+Bot  19-Feb-23, 15:33
+text: Hello Kristina Kholmanskikh, your blood test results are out! Now what?
+Now is the time to take action towards better health.
+ Review your results on the Valeo app.
+ Connect with a Valeo health expert for FREE.
+ Order your top-quality supplements.
+
+
+type: button
+action.type: link
+action.text: Download app
+action.url: http://onelink.to/valeo
+
+Bot  19-Feb-23, 15:33
+text: To book your *FREE* health consultation, please choose your preferred slot
+now.
+This is a 15-min zoom call where you can discuss your results, ask questions &
+get more personalised advice. We highly recommend you don't miss out!
+If you need any assistance, please let us know.
+
+
+type: button
+action.type: link
+action.text: Book now!
+action.url: https://calendly.com/drmahmoudmusa/valeo-coach-session
+
+Giri  19-Feb-23, 15:50
+Hi Grigory Shiyan,
+
+
+Please find the attached PDF copy of your test results.
+Feel free to reach out to us if you have any questions or clarification.
+
+Energy & Excitement,
+The Valeo Team
+Attached file: Cardiac Profile test Result_Grigory Shiyan.pdf
+
+Manar  19-Feb-23, 19:26
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/21098 by Manar Fayez
+
+Kristina Kholmanskikh  22-Feb-23, 16:05
+Hello, do you carry out analysis for lithium?
+
+Yazan  22-Feb-23, 16:06
+Hi, thanks for reaching out to Valeo!
+
+Yazan  22-Feb-23, 16:07
+We will check with our team and get back to you
+
+Bot  28-Feb-23, 09:15
+text: Hello Kristina, we’re reaching out from Valeo’s support team. Please reply
+back with “Hi” so we can proceed with assisting you.
+
+
+type: button
+action.type: quick_reply
+action.text: Hi
+
+Kristina Kholmanskikh  10-Mar-23, 10:22
+Hi
+
+Kristina Kholmanskikh  10-Mar-23, 10:23
+I would love to order blood sample tests for tomorrow
+
+Yazan  10-Mar-23, 10:23
+Hi
+
+Yazan  10-Mar-23, 10:23
+Thank you for replying
+
+Kristina Kholmanskikh  10-Mar-23, 10:24
+Kristina Kholmanskikh k.Kholmanskikh@gmail.com
+
+Kristina Kholmanskikh  10-Mar-23, 10:24
+Al Thanya St - Umm Al Sheif API 1000, Block B, Apt 106B, Dubai
+
+Kristina Kholmanskikh  10-Mar-23, 10:24
+Dropped pin
+https://maps.app.goo.gl/fAMFVzh8e2zHZDPp9?g_st=iw
+
+Kristina Kholmanskikh  10-Mar-23, 10:24
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/92103eb29335856661b67d9369eac8b158bd99d05670aae8c1db632a6d04b0fa/f_feedbackMessage/u_c4b7bcddb1803745b15f7ab6bf8ec4522837c982cefeab909b89659d776d915f/img_sr8vnn2qg8_85f65b4e22db0de350f07f765db0e3bc589d2ba0c15d2512ef99187a38cc9cfb.jpeg
+
+Yazan  10-Mar-23, 10:25
+Thank you for sharing
+
+Yazan  10-Mar-23, 10:26
+Can you please confirm the package and preferred time tomorrow
+
+Kristina Kholmanskikh  10-Mar-23, 10:30
+So, I would like to do following tests:
+1. Cardiac Blood Test
+2. Liver function test
+3. Kidney function test
+4. Thyroid function
+5. Bilirubin *indirect*
+6. *Fibrinogen*
+7. Homocysteine
+8. Uric Acid
+9. Iron
+10. Ferritin
+11. Prolactin
+12. *Leptin*
+
+Kristina Kholmanskikh  10-Mar-23, 10:31
+The analysis highlighted I haven’t found in your app. Please let me know if you
+could perform them.
+
+Kristina Kholmanskikh  10-Mar-23, 10:31
+The time slot 08:00-09:30.
+
+Yazan  10-Mar-23, 10:32
+Sure I will check and get back to you
+
+Kristina Kholmanskikh  10-Mar-23, 10:32
+Thank you
+
+Yazan  10-Mar-23, 10:33
+You are most welcome
+
+Kristina Kholmanskikh  10-Mar-23, 10:35
+Also kindly check if you could perform analyses for:
+-*zinc*;
+-*copper*;
+-*selenium*
+in blood.
+
+Yazan  10-Mar-23, 10:47
+sure we will get back to you as soon as we check
+
+Kristina Kholmanskikh  10-Mar-23, 10:47
+Thank u
+
+Yazan  10-Mar-23, 10:48
+You are welcome
+
+Kristina Kholmanskikh  10-Mar-23, 15:01
+Any update for me?
+
+Yazan  10-Mar-23, 15:03
+we are following up with our team
+
+Yazan  10-Mar-23, 15:29
+Can you please confirm which Thyroid function the total or the free
+
+Yazan  10-Mar-23, 16:44
+We have calculated the price of the custom test and it will be 2350 AED
+
+Yazan  10-Mar-23, 16:46
+But we have another option we added two packages the Advanced female blood test
+and the cardiac so we we could add 20% discount because they have most of the
+biomarkers and added the additional biomarkers you asked for and the price will
+be 1650 AED
+
+Kristina Kholmanskikh  10-Mar-23, 17:13
+Free
+
+Kristina Kholmanskikh  10-Mar-23, 17:13
+So, the test will contain all the analysis I mentioned?
+
+Kristina Kholmanskikh  10-Mar-23, 17:14
+Or the one I highlighted are not included?
+
+Yousef  10-Mar-23, 17:23
+The test will include some of the biomarkers, and if they are not available in
+the package we will add them
+
+Kristina Kholmanskikh  10-Mar-23, 18:52
+What about the markers in bold? Do you perform them?
+
+Kristina Kholmanskikh  10-Mar-23, 18:52
+And these ones?
+
+Yousef  10-Mar-23, 19:02
+we will add two packages the Advanced female blood test and the cardiac, these
+are the biomarkers that will be tested in the advanced female
+Attached file: Advanced female package (16).pdf
+
+Kristina Kholmanskikh  10-Mar-23, 19:04
+I’m sorry but I’m confused
+
+Kristina Kholmanskikh  10-Mar-23, 19:04
+This doesn’t answer my question
+
+Kristina Kholmanskikh  10-Mar-23, 19:05
+I’m asking precisely about the following analysis: leptin, indirect bilirubin,
+zinc, selenium, copper, fibrinogen
+
+Yousef  10-Mar-23, 19:12
+I will check and get back to you shortly
+
+Geoza  10-Mar-23, 19:22
+Hi Again Kristina, apologies for the confusion. Can you reconfirm please if you
+want to know only the below test?
+
+
+*Leptin,
+*Indirect bilirubin
+*zinc,
+*Selenium
+*Copper
+*Fibrinogen
+
+Kristina Kholmanskikh  10-Mar-23, 19:23
+As I mentioned before these analyses above I haven’t found in your app, so I was
+requesting if you do them or not, you promised to get back to me.
+
+Kristina Kholmanskikh  10-Mar-23, 19:24
+The rest I know that you perform in your lab.
+
+Yousef  10-Mar-23, 19:24
+Yes we can do this test
+
+Kristina Kholmanskikh  10-Mar-23, 19:26
+Great
+
+Yousef  10-Mar-23, 19:27
+Please let us know if you would like to proceed with which test
+
+Kristina Kholmanskikh  10-Mar-23, 19:33
+I would like to do:
+So, I would like to do following tests:
+*Packages*:
+1. Cardiac Blood Test
+2. Liver function test
+3. Kidney function test
+4. Thyroid function PACKAGE
+*CUSTOM ANALYSIS*:
+5. Bilirubin *indirect*
+6. *Fibrinogen*
+7. Homocysteine
+8. Uric Acid
+9. Iron
+10. Ferritin
+11. Prolactin
+12. *Leptin*
+13. Zinc
+14. Copper
+15. Selenium
+
+Kristina Kholmanskikh  10-Mar-23, 19:33
+What’s gonna be the total price?
+
+Yousef  10-Mar-23, 19:40
+We have calculated the price of the custom test and it will be 2350 AED
+
+Kristina Kholmanskikh  10-Mar-23, 20:08
+Does IWD20 code applicable?
+
+Bot  10-Mar-23, 20:20
+let me check please
+
+Kristina Kholmanskikh  10-Mar-23, 20:20
+Thank u
+
+Yousef  10-Mar-23, 20:21
+we added two packages the Advanced female blood test and the cardiac so we we
+could add 20% discount because they have most of the biomarkers and added the
+additional biomarkers you asked for and the price will be 1650 AED
+
+Kristina Kholmanskikh  10-Mar-23, 20:22
+Ok Ok
+
+Kristina Kholmanskikh  10-Mar-23, 20:22
+Now I understand
+
+Kristina Kholmanskikh  10-Mar-23, 20:22
+Great
+
+Kristina Kholmanskikh  10-Mar-23, 20:22
+So tomorrow is confirmed?
+
+Yousef  10-Mar-23, 20:23
+Would you like to proceed with the booking
+
+Kristina Kholmanskikh  10-Mar-23, 20:23
+Yes
+
+Kristina Kholmanskikh  10-Mar-23, 20:23
+Please
+
+Yousef  10-Mar-23, 20:24
+Can you please tell us the preferred time and date you would like to book on
+
+Kristina Kholmanskikh  10-Mar-23, 20:24
+Tomorrow morning
+
+Kristina Kholmanskikh  10-Mar-23, 20:24
+Before 9:20
+
+Yousef  10-Mar-23, 20:29
+Can you please provide us with your full address
+
+Kristina Kholmanskikh  10-Mar-23, 20:30
+Kristina Kholmanskikh k.Kholmanskikh@gmail.com
+
+Kristina Kholmanskikh  10-Mar-23, 20:30
+Al Thanya St - Umm Al Sheif API 1000, Block B, Apt 106B, Dubai
+
+Kristina Kholmanskikh  10-Mar-23, 20:30
+Dropped pin
+https://maps.app.goo.gl/fAMFVzh8e2zHZDPp9?g_st=iw
+
+Kristina Kholmanskikh  10-Mar-23, 20:30
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/92103eb29335856661b67d9369eac8b158bd99d05670aae8c1db632a6d04b0fa/f_feedbackMessage/u_c4b7bcddb1803745b15f7ab6bf8ec4522837c982cefeab909b89659d776d915f/img_jpmfdq7sel_57f147925910af800e6051dad648bf97a80fe2b2396dad41e1d7b9b94fcce861.jpeg
+
+Yousef  10-Mar-23, 20:34
+Thank you for sharing
+
+Yousef  10-Mar-23, 20:34
+I will check the availability and get back to you
+
+Yousef  10-Mar-23, 20:38
+Hello again, we can do that, we can book for you at 9am to 10am tomorrow
+
+Kristina Kholmanskikh  10-Mar-23, 20:38
+Perfect
+
+Yousef  10-Mar-23, 20:40
+we will send the payment link shortly
+
+Kristina Kholmanskikh  10-Mar-23, 20:40
+Ok
+
+Yousef  10-Mar-23, 20:52
+Hello again, you can use this payment link
+https://business.mamopay.com/pay/valeo-78fa49
+
+Kristina Kholmanskikh  10-Mar-23, 20:57
+
+Yousef  10-Mar-23, 20:58
+Thank you for your payment
+
+Yousef  10-Mar-23, 21:02
+Your sample collection appointment is confirmed on 11 Mar between 09:00am and
+10:00am. 
+
+Make sure to fast for a duration of 10 hours minimum and should not exceed 12
+hours before your appointment. It's always okay to drink just water while
+fasting. Foods & beverages like tea, coffee, nuts, and other similar items are
+completely prohibited while fasting to keep an accurate result analysis.
+
+
+Your results are expected to be uploaded on our app within 3-5 working days.
+Please note that due to any reason if your booking is canceled or rescheduled
+before 4 hours of the test, there will be an additional charge of AED 150.
+
+Please confirm with a YES to acknowledge this message.
+
+Kristina Kholmanskikh  10-Mar-23, 21:16
+Thank you, but could you pls ask the nurse to arrive no later then 9:30, because
+I would need to leave at 9:45.
+
+Yousef  10-Mar-23, 21:34
+We will inform our lab partners about this
+
+Kristina Kholmanskikh  10-Mar-23, 21:35
+Thank u
+
+Yousef  10-Mar-23, 21:35
+You are most welcome
+
+Bot  11-Mar-23, 10:31
+Good Morning
+
+
+Please note that we have created an account for you , please use the following
+details to login :
+
+User : k.Kholmanskikh@gmail.com
+Password : welcome123
+
+----------
+
+If you have not yet downloaded our APP, please click on the link to download the
+app
+http://onelink.to/valeo
+Appstore Link:
+https://apps.apple.com/tr/app/valeo-wellbeing/id1515476066#?platform=iphone
+Play Store Link: https://play.google.com/store/apps/details?id=com.valeoapp
+As your results will be uploaded under your account
+
+Bot  11-Mar-23, 11:11
+text: Hi Kristina Kholmanskikh,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+9am to 10am.
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Kristina Kholmanskikh  11-Mar-23, 11:18
+Yes
+
+Mina  11-Mar-23, 11:19
+Great, thank you for letting us know! Could you please rate your overall
+experience so far from 1-5, 5 being the highest.
+
+Kristina Kholmanskikh  11-Mar-23, 11:40
+5
+
+Mina  11-Mar-23, 11:40
+Thank you for your feedback 
+Stay on top of your health & feel your best with Valeo! 
+
+Mina  11-Mar-23, 11:43
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/22223 by Mina Mousa
+
+Kristina Kholmanskikh  22-Mar-23, 18:06
+Hi, how are you? I am checking when would be my results be ready?
+
+Kristina Kholmanskikh  22-Mar-23, 18:06
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/92103eb29335856661b67d9369eac8b158bd99d05670aae8c1db632a6d04b0fa/f_feedbackMessage/u_c4b7bcddb1803745b15f7ab6bf8ec4522837c982cefeab909b89659d776d915f/img_7nbki60ui1_a217f2995f2ea73aafb5f9d2a41216ce992a9885c4922cfec2517e046d3d3622.jpeg
+
+Yousef  22-Mar-23, 18:16
+Hello, I will check and get back to you
+
+Yousef  22-Mar-23, 19:07
+Hello again, some of your results were shared in your email we have followed up
+with our lab partners now only selenium is pending you will be able to find the
+rest in this PDF file
+Attached file: Advanced Female +Custom test _Kristina Kholmanskikh.PDF
+
+Kristina Kholmanskikh  22-Mar-23, 19:07
+Thank u!
+
+Yousef  22-Mar-23, 19:08
+You are most welcome
+
+Bot  23-Mar-23, 11:36
+text: Hi Kristina,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+8:00AM to 9:00AM.
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Kristina Kholmanskikh  23-Mar-23, 12:02
+Yes
+
+Yazan  23-Mar-23, 12:02
+Great, thank you for letting us know! Could you please rate your overall
+experience so far from 1-5, 5 being the highest.
+
+Manar  23-Mar-23, 17:47
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/22932 by Manar Fayez
+
+Kristina Kholmanskikh  02-Apr-23, 22:33
+Hi, pls find attached the passport of my sister. I ordered pcr test for her
+tomorrow morning.
+
+Kristina Kholmanskikh  02-Apr-23, 22:33
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/92103eb29335856661b67d9369eac8b158bd99d05670aae8c1db632a6d04b0fa/f_feedbackMessage/u_c4b7bcddb1803745b15f7ab6bf8ec4522837c982cefeab909b89659d776d915f/img_8ap79ipa08_d9f446dfcf6c5ccd9ea0832a1fc992044cd7dc56bfa15850ef390c430970b46a.jpeg
+
+Rawan  02-Apr-23, 22:34
+Hello Kristina
+Thank you for sharing
+
+Rawan  02-Apr-23, 22:36
+Well noted
+The PCR test will be for your sister and the Thyroid Function package will be
+for you
+
+Rawan  02-Apr-23, 22:37
+Your appointment is booked on 3 Apr 2023 Mon. between 6:00 AM and 7:00 AM We
+request you to please allow us a wait time of 60mins maximum in case of any
+unforeseen delays.
+However, we always ensure that our team arrives at your location on time.
+
+Thank you for booking with Valeo!
+
+Bot  03-Apr-23, 10:39
+text: Hi Kristina,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+6:00AM to 7:00AM.
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Kristina Kholmanskikh  03-Apr-23, 13:11
+Yes
+
+Yazan  03-Apr-23, 13:11
+Great, thank you for letting us know! Could you please rate your overall
+experience so far from 1-5, 5 being the highest.
+
+Kristina Kholmanskikh  03-Apr-23, 17:43
+https://cdi43.page.link/uRwqf
+
+Kristina Kholmanskikh  03-Apr-23, 17:43
+Hello! I just received the results for my sisters pcr
+
+Kristina Kholmanskikh  03-Apr-23, 17:43
+There is a mistake in her name
+
+Kristina Kholmanskikh  03-Apr-23, 17:43
+It should be Kseniia
+
+Kristina Kholmanskikh  03-Apr-23, 17:44
+I mentioned it to the nurse
+
+Yazan  03-Apr-23, 17:44
+Let me check and get back to you
+
+Manar  04-Apr-23, 00:32
+We are very sorry for late reply , our team confirmed that its updated and
+shared with you , and also we'll share it here again
+
+Manar  04-Apr-23, 00:32
+Attached file: 9656275241_MISSKSEN_20230403061307622.pdf
+
+Kristina Kholmanskikh  04-Apr-23, 09:48
+Thank you
+
+Kristina Kholmanskikh  04-Apr-23, 09:48
+Is the thyroid test ready as well?
+
+Rawan  04-Apr-23, 09:55
+You are welcome
+
+Rawan  04-Apr-23, 09:56
+Please allow me a few minutes to check that
+
+Rawan  04-Apr-23, 11:27
+Hello again
+Please find the attached pdf file
+and it will be uploaded today in our app .
+Attached file: MS. Kristina Kholmanskikh_9656275254_OTHERS_20230404051823731.pdf.PDF
+
+Manar  04-Apr-23, 12:35
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/23553 by Manar Fayez
+
+Kristina Kholmanskikh  18-Apr-23, 13:08
+Hello, so I would love to order thyroid test again
+
+Kristina Kholmanskikh  18-Apr-23, 13:09
+I have balance in my account for 209AED as I occasionally paid my previous order
+twice.
+
+Rawan  18-Apr-23, 13:09
+Hello Kristina
+
+Kristina Kholmanskikh  18-Apr-23, 13:10
+Do you think someone can arrive tomorrow morning? Around 8?
+
+Rawan  18-Apr-23, 13:10
+Sure , let me check with the concerned team and get back
+
+Rawan  18-Apr-23, 13:31
+Yes , you can book now from the App , or if you wish we can book from our side
+
+Kristina Kholmanskikh  18-Apr-23, 13:35
+If proceed through the app it still ask for payment
+
+Kristina Kholmanskikh  18-Apr-23, 13:36
+And I want to use the credit I have on my account
+
+Rawan  18-Apr-23, 13:50
+Please let me check with the concerned team and get back
+
+Kristina Kholmanskikh  18-Apr-23, 13:50
+Thank u
+
+Rawan  18-Apr-23, 13:51
+You are welcome 
+
+Rawan  18-Apr-23, 13:55
+It should complete automatically with wallet credit
+
+Kristina Kholmanskikh  18-Apr-23, 14:04
+Hm
+
+Kristina Kholmanskikh  18-Apr-23, 14:04
+Let me try again
+
+Mina  18-Apr-23, 14:06
+Sure take your time.
+
+Kristina Kholmanskikh  18-Apr-23, 14:06
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/92103eb29335856661b67d9369eac8b158bd99d05670aae8c1db632a6d04b0fa/f_feedbackMessage/u_c4b7bcddb1803745b15f7ab6bf8ec4522837c982cefeab909b89659d776d915f/img_ga36oc5dpb_3b5be1aef65bb217ea00599be03b56addfa74743ec8d5ee1ad2a2b4773958082.jpeg
+It worked! But for some reason it didn’t let me choose the date and time for the
+analysis
+
+Julia  18-Apr-23, 14:09
+Allow us few moments to check
+
+Julia  18-Apr-23, 14:11
+we can book it from our side since you are having difficulties
+
+Julia  18-Apr-23, 14:11
+please inform us the date and time that you would like to book it for your test
+
+Kristina Kholmanskikh  18-Apr-23, 14:12
+Tomorrow morning
+
+Kristina Kholmanskikh  18-Apr-23, 14:12
+Around 8?
+
+Julia  18-Apr-23, 14:12
+8 am am I right?
+
+Kristina Kholmanskikh  18-Apr-23, 14:13
+Yes
+
+Julia  18-Apr-23, 14:13
+you would like to book for one person ?
+
+Kristina Kholmanskikh  18-Apr-23, 14:13
+Yes
+
+Kristina Kholmanskikh  18-Apr-23, 14:13
+Just thyroid
+
+Julia  18-Apr-23, 14:13
+Perfect!
+
+Julia  18-Apr-23, 14:23
+Please inform us your phone number
+
+Kristina Kholmanskikh  18-Apr-23, 14:23
+502585132
+
+Julia  18-Apr-23, 14:25
+Please reply on the message that we have send you on that number so we can
+proceed further with the booking
+
+Kristina Kholmanskikh  18-Apr-23, 14:28
+Ok
+
+Mina  18-Apr-23, 19:39
+Your sample collection appointment is confirmed on April 19th between 08:00 AM
+and 09:00 AM. 
+There is no fasting required for this test.
+Your results will be expected within 3-5 working days.
+Please note that due to any reason if your booking is canceled or rescheduled
+before 4 hours of the test, there will be an additional charge of AED 150.
+
+Kristina Kholmanskikh  18-Apr-23, 19:39
+Thank you
+
+Mina  18-Apr-23, 19:41
+You are most welcome.
+
+Mina  18-Apr-23, 22:52
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/24437 by Mina Mousa
+

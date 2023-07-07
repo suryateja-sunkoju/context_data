@@ -1,0 +1,579 @@
+Mostafa  02-Aug-22, 13:01
+Good Day
+
+Bot  02-Aug-22, 13:01
+Hi Mostafa, thanks for reaching out to Valeo! How can we help you today?
+
+Mostafa  02-Aug-22, 13:01
+I have confirmed my PCR booking at 4-5 pm today
+
+Mostafa  02-Aug-22, 13:02
+Just confirming if received or not as application is not showing
+
+Bot  02-Aug-22, 13:04
+Yes we got your booking request, please confirm the that the PCR test is for you
+and on this address " Hudiba Area, Al Mina Road, Wasl Port Views, Apartment 614,
+Building 10, Hudaiba,"
+
+Mostafa  02-Aug-22, 13:23
+Confirmed
+
+Bot  02-Aug-22, 13:28
+We have sent you a confirmation email with the invoice.
+
+Your appointment is booked on the second of August . between 4:00PM and 5:00PM
+We request you to please allow us a wait time of 60mins maximum in case of any
+unforeseen delays.
+However, we always ensure that our team arrives at your location on time.
+
+Thank you for booking with Valeo!
+
+Bot  02-Aug-22, 13:33
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/10783 by Mohammad Hammad
+
+Bot  02-Aug-22, 18:32
+text: Hi Mohamed,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+4:00PM to 5:00PM.
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Mostafa  02-Aug-22, 19:14
+Yes
+
+Manar  02-Aug-22, 19:16
+Great, thank you for letting us know! Could you please rate your overall
+experience so far from 1-5, 5 being the highest.
+
+Manar  02-Aug-22, 21:38
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/10823 by Manar Fayez
+
+Mostafa  05-Aug-22, 06:53
+good morning
+
+Mostafa  05-Aug-22, 06:53
+I need invoice for last PCR Test conducted
+
+Mostafa  05-Aug-22, 06:54
+could you please share via email or whatsapp here
+mohamed.mostafa.abdelhalim@dnv.com
+
+Bot  05-Aug-22, 08:15
+Hi there, Good morning.
+
+Bot  05-Aug-22, 08:16
+We will send you the invoice as soon as possible.
+
+Mostafa  05-Aug-22, 08:48
+Hello
+
+Bot  05-Aug-22, 08:52
+Hello Mostafa, we have forwarded your request to the finance department, once
+they are done creating your invoice, we will send it to you via email.
+
+Mostafa  05-Aug-22, 09:00
+Thanks 
+
+Bot  05-Aug-22, 09:00
+Our pleasure!
+
+Bot  05-Aug-22, 09:30
+Hi again, please find the invoice file attached below.
+Attached file: INV-DI-3611.pdf
+
+Bot  05-Aug-22, 09:31
+Please let us know if further assistance is required, thanks for contacting
+Valeo, and have a great day!
+
+Bot  05-Aug-22, 16:13
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/10906 by Yazan Ahmed
+
+Mostafa  08-Aug-22, 09:16
+Good day
+
+Mostafa  08-Aug-22, 09:16
+could you provide invoice for PCR conducted yesterday
+
+Manar  08-Aug-22, 09:16
+Hello Mostafa!
+
+Manar  08-Aug-22, 09:16
+Sure , let me forward your request to our concerned team
+
+Mostafa  08-Aug-22, 09:17
+thank you
+
+Manar  08-Aug-22, 09:17
+Most welcome
+
+Manar  08-Aug-22, 11:13
+Hi again Mostafa!
+
+Manar  08-Aug-22, 11:13
+It will be sent today via email
+
+Manar  08-Aug-22, 11:28
+It has been sent already
+
+Manar  08-Aug-22, 13:08
+Please feel free to reach us for any further assistance
+
+Manar  08-Aug-22, 13:08
+Have a great day!
+
+Manar  08-Aug-22, 14:27
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/10964 by Manar Fayez
+
+Mostafa  21-Aug-22, 10:20
+Hi
+
+Mostafa  21-Aug-22, 10:21
+Can i get a PCR today ? What time is earliest
+
+Mostafa  21-Aug-22, 10:21
+Because on the app it shows 2 pm to 3 pm
+
+Mostafa  21-Aug-22, 10:22
+I need someone to come before 2
+
+Mostafa  21-Aug-22, 10:22
+Should i book through the app and u can change timing ?
+
+Bot  21-Aug-22, 10:22
+Hi Mostafa, thanks for reaching out to Valeo! H
+
+Bot  21-Aug-22, 10:22
+I can assist you with the booking.
+
+Mostafa  21-Aug-22, 10:23
+Ok great
+
+Mostafa  21-Aug-22, 10:23
+I am choosing this 12 hours PCR
+
+Bot  21-Aug-22, 10:23
+Would 10AM be suitable for you?
+
+Mostafa  21-Aug-22, 10:23
+Today
+
+Mostafa  21-Aug-22, 10:23
+So any time i am available before 2 pm
+
+Bot  21-Aug-22, 10:24
+Would 12PM works?
+
+Mostafa  21-Aug-22, 10:24
+Yea
+
+Mostafa  21-Aug-22, 10:24
+Great
+
+Bot  21-Aug-22, 10:25
+Great!
+
+Bot  21-Aug-22, 10:26
+Here is your payment link, please share a screenshot once done .
+
+Bot  21-Aug-22, 10:26
+https://business.mamopay.com/pay/valeo-d59e09
+
+Mostafa  21-Aug-22, 10:28
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_feeac39fa7abde18ffb8c73f9d158b40eb0b28142ec6e0f3e3c3b418f40453b8/img_v1qtc2mptr_ce23fcd102a1f66b3b476e5f69d73d5ff34e28a20e65d7b50ea091412bc0eff3.jpeg
+
+Mostafa  21-Aug-22, 10:28
+Done
+
+Bot  21-Aug-22, 10:29
+Thank you for your payment.
+
+Bot  21-Aug-22, 10:29
+Please share below details to proceed with reservation of your booking.
+
+EID (front & back copy) or Passport Copy
+Email
+Phone
+Address
+Pin location (Please provide pin location without fail to avoid delays in
+finding the exact location)
+
+Mostafa  21-Aug-22, 10:31
+Hudaiba Area, Wasl port view building 10, Apartment 614
+
+Mostafa  21-Aug-22, 10:31
+wasl Port Views
+800 9275
+https://maps.app.goo.gl/5qBrGDYKDvfCT3XV8
+
+Mostafa  21-Aug-22, 10:31
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_feeac39fa7abde18ffb8c73f9d158b40eb0b28142ec6e0f3e3c3b418f40453b8/img_08kv9le9bb_f663a8b47587bb81aa3659e0227ad39341ccc7484f3146513d3a368082f71ff8.jpeg
+
+Mostafa  21-Aug-22, 10:31
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_feeac39fa7abde18ffb8c73f9d158b40eb0b28142ec6e0f3e3c3b418f40453b8/img_89esb6qgu8_2a4fdb832bf7870b87d976dc47b6d36439c21b8ba2eb39ffb5a23dd23cd3c23d.jpeg
+
+Mostafa  21-Aug-22, 10:31
+Mohamed.mostafa.abdelhalim@dnv.com
+
+Mostafa  21-Aug-22, 10:31
+00971501329552
+
+Bot  21-Aug-22, 10:32
+Thank you for sharing your information, I will share the confirmation with you
+shortly.
+
+Bot  21-Aug-22, 10:47
+We have sent you a confirmation email with the invoice.
+
+Your appointment is booked on Aug 21 . between 12:00PM and 1:00PM We request you
+to please allow us a wait time of 60mins maximum in case of any unforeseen
+delays.
+However, we always ensure that our team arrives at your location on time.
+
+Thank you for booking with Valeo!
+
+Mostafa  21-Aug-22, 10:49
+Thanks
+
+Bot  21-Aug-22, 10:49
+You're welcome.
+
+Bot  21-Aug-22, 10:49
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/11366 by Mohammad Hammad
+
+Bot  21-Aug-22, 13:23
+text: Hi Mohamed,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+12:00PM to 1:00PM.
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Mostafa  21-Aug-22, 13:23
+Yes
+
+Bot  21-Aug-22, 13:24
+Great, thank you for letting us know! Could you please rate your overall
+experience so far from 1-5, 5 being the highest.
+
+Mostafa  21-Aug-22, 13:25
+5 definetly .. i do this PCR almost twice a month and still perfect
+
+People are on time and professional
+
+Bot  21-Aug-22, 13:25
+Thank you for your feedback! Stay on top of your health & feel your best with
+Valeo. 
+
+Bot  21-Aug-22, 13:27
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/11378 by Mohammad Hammad
+
+Mostafa  24-Aug-22, 12:03
+Hi
+
+Mostafa  24-Aug-22, 12:04
+What is the nearest time i can conduct pcr today and get result in 4 hrs
+
+Bot  24-Aug-22, 12:04
+Hi Mostafa, thanks for reaching out to Valeo!
+
+Mostafa  24-Aug-22, 12:05
+Because on the application it is showing nearest appointment is 4-5 pm
+
+Bot  24-Aug-22, 12:05
+The earliest time you can recieve your result will be from 6 to 4 hours.
+
+Bot  24-Aug-22, 12:05
+We can book for you at 2:00PM.
+
+Mostafa  24-Aug-22, 12:06
+Ok what time u can collect sample ?
+
+Mostafa  24-Aug-22, 12:06
+Ok i will get back to u for confirmation in 30 mins max
+
+Bot  24-Aug-22, 12:06
+Sure we will be waiting for you.
+
+Giri  24-Aug-22, 12:09
+Please note that we would need minimum 2 hours to schedule the test once you
+confirm. We will keep trying to make the sample collection earlier
+
+Mostafa  24-Aug-22, 12:09
+Ok
+
+Mostafa  24-Aug-22, 12:26
+Hi
+
+Mostafa  24-Aug-22, 12:26
+Please confirm appointment at 2:30 and have 12 hrs pcr
+
+Bot  24-Aug-22, 12:27
+Sure Mostafa, we will share the payment link with you shortly.
+
+Mostafa  24-Aug-22, 12:27
+Ok
+
+Bot  24-Aug-22, 12:28
+Here is the payment link, please share with us a screenshot once you complete it
+: https://business.mamopay.com/pay/valeo-d59e09
+
+Bot  24-Aug-22, 12:33
+Please confirm that the test will be under Mohamed Mostafa name and the location
+will be : https://goo.gl/maps/DNAmMp7k2K7mnjxF9
+
+Mostafa  24-Aug-22, 12:37
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_feeac39fa7abde18ffb8c73f9d158b40eb0b28142ec6e0f3e3c3b418f40453b8/img_dm2v7lj9eo_26cb666ab6b4c5cc403abb767dac31153babb8d1855053a07f35f205edc9d9c8.jpeg
+
+Mostafa  24-Aug-22, 12:37
+Confirmed same details
+
+Bot  24-Aug-22, 12:37
+Thank you so much.
+
+Bot  24-Aug-22, 12:40
+Your appointment is booked on 24th of August between 2:30PM and 3:30PM We
+request you to please allow us a wait time of 60mins maximum in case of any
+unforeseen delays.
+However, we always ensure that our team arrives at your location on time.
+
+Thank you for booking with Valeo!
+
+Bot  24-Aug-22, 12:40
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/11513 by Alaa Alrajabi
+
+Bot  24-Aug-22, 16:06
+text: Hi Mohamed,
+
+Hope you are having a great day! Your sample collection was scheduled today from
+2:30PM to 3:30PM.
+We wanted to check if our team was on time?
+
+
+type: button
+action.type: quick_reply
+action.text: Yes
+action.text: No
+
+Mostafa  24-Aug-22, 18:45
+Yes
+
+Bot  24-Aug-22, 18:49
+Great, thank you for letting us know! Could you please rate your overall
+experience so far from 1-5, 5 being the highest.
+
+Mostafa  24-Aug-22, 18:50
+5
+
+Bot  24-Aug-22, 18:50
+Thank you for your feedback! Stay on top of your health & feel your best with
+Valeo. 
+
+Bot  24-Aug-22, 18:50
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/11536 by Alaa Alrajabi
+
+Mostafa  09-Sep-22, 16:47
+Hu
+
+Mostafa  09-Sep-22, 16:47
+Could u provide invoices for PCR done on 21 and 24 August
+
+Bot  09-Sep-22, 16:51
+Hi Mostafa
+
+Bot  09-Sep-22, 16:51
+Sure we will forward your request to the concerned team to send you the invoices
+ASAP.
+
+Bot  10-Sep-22, 21:33
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/12109 by Alaa Alrajabi
+
+Mostafa  25-Sep-22, 19:56
+Good Day
+
+Mostafa  25-Sep-22, 19:56
+Can u arrange PCR tonight ?
+
+Mostafa  25-Sep-22, 19:56
+24 hrs one
+
+Mostafa  25-Sep-22, 19:56
+I am available from now on to 11 pm
+
+Bot  25-Sep-22, 19:56
+Hi Mostafa, please share with us your location so we can check for you
+
+Mostafa  25-Sep-22, 19:57
+This one
+
+Mostafa  25-Sep-22, 19:57
+Close to your lab
+
+Mostafa  25-Sep-22, 19:57
+.
+
+Bot  25-Sep-22, 19:57
+https://maps.app.goo.gl/5qBrGDYKDvfCT3XV8 this will be your location, please
+confirm
+
+Mostafa  25-Sep-22, 19:58
+Yes
+
+Bot  25-Sep-22, 20:01
+We will check that and revert to you
+
+Mostafa  25-Sep-22, 20:01
+Ok thanks
+
+Bot  25-Sep-22, 20:02
+You are most welcome
+
+Mostafa  25-Sep-22, 20:07
+Any update ?
+
+Giri  25-Sep-22, 20:08
+We are waiting for the Lab to confirm, we will revert shortly
+
+Mostafa  25-Sep-22, 20:08
+Ok
+
+Bot  25-Sep-22, 20:13
+Thanks for your time Mostafa, we can reach you within 30min
+
+Mostafa  25-Sep-22, 20:13
+Ok please proceed
+
+Bot  25-Sep-22, 20:13
+Here is the payment link: https://business.mamopay.com/pay/valeo-5ca27f
+
+Mostafa  25-Sep-22, 20:13
+Send me payment link with Code "DNV
+
+Bot  25-Sep-22, 20:14
+The test will be for you Mostafa?
+
+Mostafa  25-Sep-22, 20:14
+Yes
+
+Giri  25-Sep-22, 20:14
+We do not have a coupon for the regular PCR which is 110 AED
+
+Giri  25-Sep-22, 20:15
+Are you interested for the Fasttrack PCR?
+
+Giri  25-Sep-22, 20:16
+The 12 hours PCR would cost 155 AED after the DNV discount
+
+Mostafa  25-Sep-22, 20:16
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_feeac39fa7abde18ffb8c73f9d158b40eb0b28142ec6e0f3e3c3b418f40453b8/img_an501oik2f_0ea670b378ae3bab56a24134d1c17ea4ff123fdbbd73d7d60e22cfcf7c82e15c.jpeg
+
+Mostafa  25-Sep-22, 20:16
+Paid already
+
+Giri  25-Sep-22, 20:16
+We have received the payment. Thank you for choosing Valeo and have a good day!
+
+Bot  26-Sep-22, 08:04
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/12835 by Alaa Al Rajabi
+
+Mostafa  04-Nov-22, 15:28
+Hii
+
+Mostafa  04-Nov-22, 15:29
+Can u schedule 24 hrs pcr for today ? Anytime after 5 pm is okay
+
+Mostafa  04-Nov-22, 15:29
+Address
+
+Yousef  04-Nov-22, 15:30
+Hello I will check and get back to you shortly
+
+Yousef  04-Nov-22, 15:36
+sure we can do that, would you like book 6pm to 7pm or from 5pm to 6pm
+
+Mostafa  04-Nov-22, 15:37
+5 to 6 pls
+
+Manar  04-Nov-22, 15:39
+May I have the address and pin location please ?
+
+Mostafa  04-Nov-22, 15:39
+Hudaiba Area, Wasl port view building 10, Apartment 614
+
+Mostafa  04-Nov-22, 15:40
+wasl Port Views
+800 9275
+https://maps.app.goo.gl/5qBrGDYKDvfCT3XV8
+
+Mostafa  04-Nov-22, 15:40
+Mohamed.mostafa.abdelhalim@dnv.com
+
+Mostafa  04-Nov-22, 15:40
+00971501329552
+
+Mostafa  04-Nov-22, 15:40
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_feeac39fa7abde18ffb8c73f9d158b40eb0b28142ec6e0f3e3c3b418f40453b8/img_jpk8te9or6_75e720c0b3896934fc15abbcf50883382d57678364cdb1af909e2fff10b07676.jpeg
+
+Mostafa  04-Nov-22, 15:40
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_feeac39fa7abde18ffb8c73f9d158b40eb0b28142ec6e0f3e3c3b418f40453b8/img_h5klfrm1f1_7629d14a6707f4e44ee4bf31de8dce6dc471961d52d278cf46de86861c5fb801.jpeg
+
+Manar  04-Nov-22, 15:43
+Thank you so much , we are checking availability and we'll confirm to you
+shortly
+
+Mostafa  04-Nov-22, 15:43
+okay
+
+Yousef  04-Nov-22, 15:50
+We have booked a slut for you at 5pm to 6pm
+
+Mostafa  04-Nov-22, 15:54
+Thanks
+
+Mostafa  04-Nov-22, 15:54
+Can u send payment link?
+
+Manar  04-Nov-22, 15:56
+https://business.mamopay.com/pay/valeo-5ca27f
+Here's the payment link , thanks
+
+Mostafa  04-Nov-22, 16:20
+Image: https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/d3da59e785a18d8813960cbbd75b98a94d100fda2580c7d75bc9674b70ea70c7/f_feedbackMessage/u_feeac39fa7abde18ffb8c73f9d158b40eb0b28142ec6e0f3e3c3b418f40453b8/img_8ebaebr3mo_0874ca2b6d655c3c339a1deeb5ae40f14030e2a9d012d45208f035de866dc5c6.jpeg
+
+Mostafa  04-Nov-22, 16:20
+Payment completed
+
+Yousef  04-Nov-22, 16:22
+Thank you for your payment
+
+Yousef  04-Nov-22, 16:26
+Your appointment is booked on 4Nov. between 5pm and 6pm We request you to please
+allow us a wait time of 60mins maximum in case of any unforeseen delays.
+However, we always ensure that our team arrives at your location on time.
+
+Thank you for booking with Valeo
+
+Rawan  05-Nov-22, 08:45
+Conversation has been converted to freshdesk ticket
+https://help-feelvaleo.freshdesk.com/helpdesk/tickets/14687 by Rawan Waddah
+
